@@ -6,13 +6,13 @@ This project focuses on detecting **illegal waste dumping at night** using a com
 - Low-light imaging (no IR)
 - AI-based detection (YOLO + motion logic)
 
-The system detects:
-- 🚗 Vehicles stopping in restricted zones
-- 🗑️ Waste dumping action
-- 🔍 Captures number plate (when possible)
--     triple riding
--     helmet detection
----
+## The system detects:
+-  Vehicles stopping in restricted zones
+-  Waste dumping action
+-  Captures number plate (when possible)
+-  triple riding
+-  helmet detection
+
 
 ## 🎯 Objectives
 - Detect dumping activity in low-light conditions
@@ -69,6 +69,7 @@ The system detects:
 
 ## 📸 Sample Outputs
 <img width="768" height="520" alt="WhatsApp Image 2026-01-19 at 16 26 19" src="https://github.com/user-attachments/assets/d4562b4b-461e-455a-ad62-399171911c32" />
+<img width="1600" height="892" alt="WhatsApp Image 2026-04-27 at 21 08 40" src="https://github.com/user-attachments/assets/a2bd6f89-fcb0-41b1-b4bd-c87f4ef9c579" />
 
 ---
 
